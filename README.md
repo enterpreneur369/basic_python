@@ -1,2 +1,2 @@
-# basic_python
-Material to basic Python class
+# basic_python3
+Material to basic Python 3 class
